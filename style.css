@@ -262,7 +262,7 @@ section{
 
 .skill-card:hover {
     transform: scale(1.05);
-    box-shadow: 15px 15px 15px grey;
+    box-shadow: 15px 15px 15px rgb(30, 87, 47);
     border: none;
 }
 
@@ -373,7 +373,7 @@ section{
 
 .project_card:hover {
     transform: translateY(-5px);
-    box-shadow: 15px 15px 15px #6B705C;
+    box-shadow: 15px 15px 15px #516848;
 }
 
 /* Project Image */
